@@ -1,4 +1,7 @@
 # DevSecOpsBasic
 Basic understanding
 <br>
-Author: Harimurti Singh
+Author: Harimurti Singh (Basti)
+<br>
+Morning 6:00AM
+
